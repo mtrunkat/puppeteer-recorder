@@ -14,3 +14,9 @@ To run it call:
 ```
 npm run develop
 ```
+
+## Demo
+
+<a href="https://github.com/mtrunkat/puppeteer-recorder/blob/master/recorder-demo.mov">Download the video here</a>
+
+<img src="./recorder-demo.jpg" width="800" />
